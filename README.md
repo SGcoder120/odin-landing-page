@@ -1,3 +1,3 @@
-# odin landing page
+# odin-landing-page
 
 Made for the odin landing page project.
